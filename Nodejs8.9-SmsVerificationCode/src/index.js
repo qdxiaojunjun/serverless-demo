@@ -7,7 +7,7 @@
 3.去云短信控制台申请短信模板和签名
 * 详细请参考：https://github.com/tencentyun/scf-demo-repo/tree/master/Nodejs8.9-SmsVerificationCode
 ***************************************************/
-
+***************************************************/
 'use strict';
 const redis = require('ioredis');
 const tencentcloud = require('tencentcloud-sdk-nodejs');
